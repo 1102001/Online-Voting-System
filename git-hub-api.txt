@@ -1,0 +1,11 @@
+Get json data of specific version
+https://api.github.com/repos/csshivampatel/trainees-temp-project/git/refs/tags/v8
+
+From the above response call the url 
+https://api.github.com/repos/csshivampatel/trainees-temp-project/git/tags/c318a7286144d074a1a0d926073bc8d8c54513b4
+
+
+
+Removed
+Adapters :- Exchange and pop-3 , Dynamic crm
+Client API :- Filter By Object
